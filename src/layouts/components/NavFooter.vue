@@ -11,10 +11,10 @@
       By&nbsp;
       <a
         class="link link-primary no-underline"
-        href="https://ping.pub"
+        href="https://ramanode.com/"
         target="_blank"
         rel="noopener noreferrer"
-        >Ping.pub</a
+        >Ramanode</a
       >
     </div>
     <div
