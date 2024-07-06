@@ -1,17 +1,17 @@
 {
     "chain_name": "crossfi",
-    "api": ["https://crossfi-test-api.ramadhvni.com"],
-    "rpc": ["https://crossfi-test-rpc.ramadhvni.com"],
+    "api": ["https://crossfi-testnet-api.ramanode.top"],
+    "rpc": ["https://crossfi-testnet-rpc.ramanode.top"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.47.1",
     "coin_type": "118",
     "min_tx_fee": "500",
-    "addr_prefix": "empower",
+    "addr_prefix": "mx",
     "logo": "https://ramanode.com/images/nodes/crossfi.svg",
     "assets": [{
         "base": "mpx",
-        "symbol": "PX",
+        "symbol": "MPX",
         "exponent": "18",
         "coingecko_id": "",
         "logo": "https://ramanode.com/images/nodes/crossfi.svg"
