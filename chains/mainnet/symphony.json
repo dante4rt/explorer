@@ -11,9 +11,9 @@
   "logo": "https://ping.pub/logos/symphony.png",
   "assets": [
     {
-      "base": "mld",
+      "base": "note",
       "symbol": "MLD",
-      "exponent": "6",
+      "exponent": "18",
       "coingecko_id": "",
       "logo": "https://ping.pub/logos/symphony.png"
     }
