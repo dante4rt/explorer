@@ -11,11 +11,18 @@
   "logo": "https://ping.pub/logos/symphony.png",
   "assets": [
     {
-      "base": "mld",
-      "symbol": "MLD",
-      "exponent": "18",
+      "base": "note",
+      "symbol": "NOTE",
+      "exponent": "6",
       "coingecko_id": "",
       "logo": "https://ping.pub/logos/symphony.png"
-    }
+    },
+    {
+        "base": "mld",
+        "symbol": "MLD",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "https://ping.pub/logos/symphony.png"
+      }
   ]
 }
